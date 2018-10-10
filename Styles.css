@@ -1,0 +1,49 @@
+#board {
+    padding-top: 3em;
+    text-align: center ;
+    width: 308px;
+    clear: both;
+}
+ 
+.row div {  
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.topleft {
+    border: 1px black solid; 
+}   
+
+.topmid {
+    border: 1px black solid; 
+    }
+
+.topright {
+    border: 1px black solid; 
+   
+}
+   
+.midleft {
+    border: 1px black solid; 
+}
+
+.center {
+    border: 1px black solid; 
+}   
+
+.midright {
+    border: 1px black solid; 
+}   
+
+.bottomleft {
+    border: 1px black solid;
+} 
+
+.bottommid {
+    border: 1px black solid; 
+}
+
+.bottomright {
+    border: 1px black solid; 
+}
