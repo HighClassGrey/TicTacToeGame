@@ -12,38 +12,37 @@
 }
 
 .topleft {
-    border: 1px black solid; 
+    border: 1px black solid;    font-size: 400%;   color:blue;    
 }   
 
 .topmid {
-    border: 1px black solid; 
+    border: 1px black solid;    font-size: 400%;    color:blue;
     }
 
 .topright {
-    border: 1px black solid; 
-   
+    border: 1px black solid;    font-size: 400%;    color:blue;
 }
    
 .midleft {
-    border: 1px black solid; 
+    border: 1px black solid;    font-size: 400%;    color:blue;
 }
 
 .center {
-    border: 1px black solid; 
+    border: 1px black solid;    font-size: 400%;    color:blue;
 }   
 
 .midright {
-    border: 1px black solid; 
+    border: 1px black solid;    font-size: 400%;    color:blue;
 }   
 
 .bottomleft {
-    border: 1px black solid;
+    border: 1px black solid;    font-size: 400%;    color:blue;
 } 
 
 .bottommid {
-    border: 1px black solid; 
+    border: 1px black solid;    font-size: 400%;    color:blue;
 }
 
 .bottomright {
-    border: 1px black solid; 
+    border: 1px black solid;    font-size: 400%;    color:blue;
 }
